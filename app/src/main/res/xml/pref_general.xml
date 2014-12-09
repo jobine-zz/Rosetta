@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_header_general">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/pref_key_proximity_screen_off"
+            android:summary="@string/pref_summary_proximity_screen_off"
+            android:title="@string/pref_title_proximity_screen_off" />
+    </PreferenceCategory>
+</PreferenceScreen>

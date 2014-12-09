@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_key_proximity_screen_off">proximity_screen_off</string>
+    <string name="pref_title_proximity_screen_off">Enable Proximity Screen Off</string>
+    <string name="pref_summary_proximity_screen_off">Screen off automatically when your phone case cover closed, or vice versa.</string>
+</resources>

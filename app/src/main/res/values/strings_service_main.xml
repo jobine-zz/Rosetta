@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_admin_not_enabled">Rosetta application was not marked as Device Administrator. Please check Security settings.</string>
+    <string name="device_admin_description">Turn screen off automatically when your phone case cover closed.</string>
+    <string name="admin_receiver_status_enabled">Rosetta was added as Device Administrator.</string>
+    <string name="admin_receiver_status_disabled">Rosetta was removed from Device Administrators list.</string>
+</resources>
